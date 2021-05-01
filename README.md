@@ -14,12 +14,12 @@ This project app is a react version of my portfolio.
 * Express
 * Node
 
-![img](react-portfolio/public/assets/contactscreenshot.png "Contact Screenshot")
-![img](react-portfolio/public/assets/homescreenshot.png "Home Screenshot")
+![img](react-portfolio/public/assets/contactscreenshot.png "Contacts Page Screenshot")
+![img](react-portfolio/public/assets/homescreenshot.png "Home Page Screenshot")
 
 # Links
-* Heroku Git URL: https://google-search-booker.herokuapp.com/
-* GitHub Repo: https://github.com/latuanja/Google_Books_Search
+* Heroku Git URL: https://git.heroku.com/lcarson-react-portfolio.git
+* GitHub Repo: https://latuanja.github.io/LatuanjaCarson_Portfolio/
 
 ## MIT License
 
