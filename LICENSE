@@ -1,27 +1,4 @@
-# React Portfolio
-
-
-## Description
-
-This project app is a react version of my portfolio.
-
-# Technologies Used
-
-* HTML
-* CSS
-* JavaScript
-* React
-* Express
-* Node
-
-![img](react-portfolio/public/assets/contactscreenshot.png "Contact Screenshot")
-![img](react-portfolio/public/assets/homescreenshot.png "Home Screenshot")
-
-# Links
-* Heroku Git URL: https://google-search-booker.herokuapp.com/
-* GitHub Repo: https://github.com/latuanja/Google_Books_Search
-
-## MIT License
+MIT License
 
 Copyright (c) 2021 Latuanja Carson
 
