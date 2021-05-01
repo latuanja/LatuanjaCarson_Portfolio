@@ -14,8 +14,8 @@ This project app is a react version of my portfolio.
 * Express
 * Node
 
-![Screenshot](react-portfolio/public/assets/contactscreenshot.png)
-![Screenshot](react-portfolio/public/assets/homescreenshot.png)
+![img](react-portfolio/public/assets/contactscreenshot.png)
+![img](react-portfolio/public/assets/homescreenshot.png)
 
 # Links
 * Heroku Git URL: https://git.heroku.com/lcarson-react-portfolio.git
